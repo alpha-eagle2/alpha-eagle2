@@ -38,14 +38,14 @@
 ---
 
 ### 📌 Pinned Projects
-- 🔧 [Instagram clone](https://github.com/Instagram-clone-Amalitech-2025/instagram-clone-web-app)): A front-end instagram clone, where users can create an account, update profiles, like and comment and make posts.
+- 🔧 [Instagram clone](https://github.com/Instagram-clone-Amalitech-2025/instagram-clone-web-app): A front-end instagram clone, where users can create an account, update profiles, like and comment and make posts.
 - 🔧 [Retail tyre shop](https://github.com/Alpha-eagle/DCIT-208-Web-App-Project): A front-end tyre website for retail shop.
 
 ---
 
 ### 🏆 GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alpha-eagle2&theme=radical" alt="GitHub Trophy" />
 </p>
 
 ---
