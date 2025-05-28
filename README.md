@@ -31,15 +31,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpha-eagle2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha-eagle2&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📌 Pinned Projects
-- 🔧 [Instagram clone]([https://github.com/your-username/project-repo-name](https://github.com/Instagram-clone-Amalitech-2025/instagram-clone-web-app)): A front-end instagram clone, where users can create an account, update profiles, like and comment and make posts.
-- 🔧 [Retail tyre shop]([https://github.com/your-username/another-repo](https://github.com/Alpha-eagle/DCIT-208-Web-App-Project)): A front-end tyre website for retail shop.
+- 🔧 [Instagram clone](https://github.com/Instagram-clone-Amalitech-2025/instagram-clone-web-app)): A front-end instagram clone, where users can create an account, update profiles, like and comment and make posts.
+- 🔧 [Retail tyre shop](https://github.com/Alpha-eagle/DCIT-208-Web-App-Project): A front-end tyre website for retail shop.
 
 ---
 
